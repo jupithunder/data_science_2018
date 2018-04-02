@@ -41,14 +41,14 @@
 - 2.3.2 [k-최근접 이웃](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter02/2.3.2.ipynb) 
 - 2.3.3 [선형 모델](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter02/2.3.3.ipynb) 
 - 2.3.4 [나이브 베이즈 분류기](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter02/2.3.4.ipynb) (by 3/20)
-- 2.3.5 [결정 트리](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.5.ipynb) 
-- 2.3.6 [결정 트리의 앙상블](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.6.ipynb) 
-- 2.3.7 [커널 서포트 벡터 머신](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.7.ipynb)
-- 2.3.8 [신경망(딥러닝)](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.8.ipynb) (by 3/27) 
+- 2.3.5 [결정 트리](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter02/2.3.5.ipynb) 
+- 2.3.6 [결정 트리의 앙상블](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter02/2.3.6.ipynb) 
+- 2.3.7 [커널 서포트 벡터 머신](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter02/2.3.7.ipynb)
+- 2.3.8 [신경망(딥러닝)](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter02/2.3.8.ipynb) (by 3/27) 
 #### 2.4 [분류 예측의 불확실성 추정](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.4.ipynb) 
-- 2.4.1 결정 함수 
-- 2.4.2 예측 확률 
-- 2.4.3 다중 분류에서의 불확실성 
+- 2.4.1 [결정 함수](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter02/2.4.1.ipynb)
+- 2.4.2 [예측 확률](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter02/2.4.2.ipynb)
+- 2.4.3 [다중 분류에서의 불확실성](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter02/2.4.3.ipynb)
 #### 2.5 요약 및 정리 (by 4/3)
 
 <br/>
