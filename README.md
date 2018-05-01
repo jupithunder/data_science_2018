@@ -57,19 +57,19 @@
 #### 3.1 비지도 학습의 종류 
 #### 3.2 비지도 학습의 도전 과제 
 #### 3.3 [데이터 전처리와 스케일 조정](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.3.ipynb) 
-- 3.3.1 여러 가지 전처리 방법 
-- 3.3.2 데이터 변환 적용하기 
-- 3.3.3 훈련 데이터와 테스트 데이터의 스케일을 같은 방법으로 조정하기 
-- 3.3.4 지도 학습에서 데이터 전처리 효과 (by 4/10)
+- 3.3.1 [여러 가지 전처리 방법](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter03/3.3.1.ipynb)
+- 3.3.2 [데이터 변환 적용하기](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter03/3.3.2.ipynb)
+- 3.3.3 [훈련 데이터와 테스트 데이터의 스케일을 같은 방법으로 조정하기](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter03/3.3.3.ipynb)
+- 3.3.4 [지도 학습에서 데이터 전처리 효과](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter03/3.3.4.ipynb)
 #### 3.4 차원 축소, 특성 추출, 매니폴드 학습 
-- 3.4.1 [주성분 분석(PCA)](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.4.1.ipynb) 
-- 3.4.2 [비음수 행렬 분해(NMF)](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.4.2.ipynb) 
-- 3.4.3 [t-SNE를 이용한 매니폴드 학습](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.4.3.ipynb) (by 4/17)
+- 3.4.1 [주성분 분석(PCA)](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter03/3.4.1.ipynb) 
+- 3.4.2 [비음수 행렬 분해(NMF)](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter03/3.4.2.ipynb) 
+- 3.4.3 [t-SNE를 이용한 매니폴드 학습](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter03/3.4.3.ipynb) (by 4/17)
 #### 3.5 군집 
-- 3.5.1 [k-평균 군집](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.1.ipynb) 
-- 3.5.2 [병합 군집](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.2.ipynb) 
-- 3.5.3 [DBSCAN](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.3.ipynb) 
-- 3.5.4 [군집 알고리즘의 비교와 평가](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.4.ipynb) 
+- 3.5.1 [k-평균 군집](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter03/3.5.1.ipynb) 
+- 3.5.2 [병합 군집](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter03/3.5.2.ipynb) 
+- 3.5.3 [DBSCAN](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter03/3.5.3.ipynb) 
+- 3.5.4 [군집 알고리즘의 비교와 평가](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter03/3.5.4.ipynb) 
 - 3.5.5 군집 알고리즘 요약 
 #### 3.6 요약 및 정리 (by 4/24)
 
