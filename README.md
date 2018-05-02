@@ -76,17 +76,17 @@
 <br/>
 
 ### CHAPTER 4 데이터 표현과 특성 공학 
-#### 4.1 [범주형 변수](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.1.ipynb) 
-- 4.1.1 원-핫-인코딩(가변수) 
-- 4.1.2 숫자로 표현된 범주형 특성 
-#### 4.2 [구간 분할, 이산화 그리고 선형 모델, 트리 모델](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.2.ipynb) (by 5/1)  
-#### 4.3 [상호작용과 다항식](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.3.ipynb)  
-#### 4.4 [일변량 비선형 변환](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.4.ipynb) (by 5/8) 
-#### 4.5 [특성 자동 선택](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.5.ipynb)  
+#### 4.1 범주형 변수
+- 4.1.1 [원-핫-인코딩(가변수)](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter04/4.1.1.ipynb) 
+- 4.1.2 [숫자로 표현된 범주형 특성](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter04/4.1.2.ipynb)
+#### [4.2 구간 분할, 이산화 그리고 선형 모델, 트리 모델](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter04/4.2.ipynb) (by 5/1)  
+#### 4.3 [상호작용과 다항식](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter04/4.3.ipynb) 
+#### 4.4 [일변량 비선형 변환](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter04/4.4.ipynb) (by 5/8) 
+#### 4.5 [특성 자동 선택](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter04/4.5.ipynb)  
 - 4.5.1 일변량 통계 
 - 4.5.2 모델 기반 특성 선택 
 - 4.5.3 반복적 특성 선택 
-#### 4.6 [전문가 지식 활용](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter04/4.6.ipynb)  
+#### 4.6 [전문가 지식 활용](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter04/4.6.ipynb)  
 #### 4.7 요약 및 정리 (by 5/15)
 
 <br/>
