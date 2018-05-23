@@ -100,26 +100,26 @@
 - 5.2.1 간단한 그리드 서치 
 - 5.2.2 매개변수 과대적합과 검증 세트 
 - 5.2.3 교차 검증을 사용한 그리드 서치 (by 5/22)
-#### 5.3 평가 지표와 측정 
+#### 5.3 [평가 지표와 측정](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter05/5.3.ipynb) 
 - 5.3.1 최종 목표를 기억하라 
-- 5.3.2 [이진 분류의 평가 지표](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter05/5.3.2.ipynb) 
-- 5.3.3 [다중 분류의 평가 지표](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter05/5.3.3.ipynb) 
+- 5.3.2 이진 분류의 평가 지표
+- 5.3.3 다중 분류의 평가 지표
 - 5.3.4 회귀의 평가 지표 
-- 5.3.5 [모델 선택에서 평가 지표 사용하기](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter05/5.3.5.ipynb) 
+- 5.3.5 모델 선택에서 평가 지표 사용하기
 #### 5.4 요약 및 정리 (by 5/29)
 
 <br/>
 
-### CHAPTER 6 알고리즘 체인과 파이프라인 
-#### 6.1 [데이터 전처리와 매개변수 선택](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.1.ipynb) 
-#### 6.2 [파이프라인 구축하기](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.2.ipynb) 
-#### 6.3 [그리드 서치에 파이프라인 적용하기](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.3.ipynb) 
-#### 6.4 [파이프라인 인터페이스](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.4.ipynb) 
+### [CHAPTER 6 알고리즘 체인과 파이프라인](https://nbviewer.jupyter.org/github/jupithunder/data_science_2018/blob/master/Chapter06/6.ipynb) 
+#### 6.1 데이터 전처리와 매개변수 선택
+#### 6.2 파이프라인 구축하기
+#### 6.3 그리드 서치에 파이프라인 적용하기 
+#### 6.4 파이프라인 인터페이스 
 - 6.4.1 make- pipleline을 사용한 파이프라인 생성 
 - 6.4.2 단계 속성에 접근하기 
 - 6.4.3 그리드 서치 안의 파이프라인 속성에 접근하기 
-#### 6.5 [전처리와 모델의 매개변수를 위한 그리드 서치](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.5.ipynb) 
-#### 6.6 [모델 선택을 위한 그리드 서치](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter06/6.6.ipynb) 
+#### 6.5 전처리와 모델의 매개변수를 위한 그리드 서치
+#### 6.6 모델 선택을 위한 그리드 서치
 #### 6.7 요약 및 정리 (by 6/5)
 
 <br/>
